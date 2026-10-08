@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Entropy Landscapes and Kinetics of Classical Sorting Algorithms: supplementary code and data"
+type: software
+authors:
+  - family-names: Mishra
+    given-names: Punyajit
+date-released: 2026-09-28
+license: MIT
+# TODO: after the first Zenodo release, add:  doi: 10.5281/zenodo.XXXXXXX
+repository-code: "https://github.com/punyajitmishra/entropy-sorting-landscapes"
